@@ -1,0 +1,9 @@
+git config --global user.name "m3pop"
+git config --global user.email "m3pop@hanmail.net"
+
+git clone https://github.com/m3pop/WM-JAVA-STUDY.git
+
+git checkout -b ¤Ñm3pop2002
+
+git branch
+4-4
