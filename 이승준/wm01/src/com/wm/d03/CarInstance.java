@@ -5,6 +5,7 @@ public class CarInstance {
 	
 	void run() {
 		System.out.println(speed + "Ŕ¸ˇÎ ´Ţ¸ł´Ď´Ů.");
+
 	}
 	
 	static void simulate() {
@@ -20,4 +21,6 @@ public class CarInstance {
 		myCar.speed = 60;
 		myCar.run();
 	}
+
 }
+
