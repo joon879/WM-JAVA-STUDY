@@ -4,7 +4,7 @@ public class CarInstance {
 	int speed;
 	
 	void run() {
-		System.out.println(speed + "Ŕ¸ˇÎ ´Ţ¸ł´Ď´Ů.");
+		System.out.println(speed + "으로 달립니다.");
 
 	}
 	
