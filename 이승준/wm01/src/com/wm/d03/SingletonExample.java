@@ -16,8 +16,4 @@ public class SingletonExample {
 			System.out.println("다른 Singleton 객체입니다.");
 		}
 	}
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> b4189a33e9e9a8bb53e657f6e3f67639da466098
