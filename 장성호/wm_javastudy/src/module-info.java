@@ -1,0 +1,2 @@
+module wm_javastudy {
+}
