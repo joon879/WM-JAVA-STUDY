@@ -1,7 +1,6 @@
 package com.wm.d03;
 
-public class Singleton {
-	
+public class Singleton{
 	private static Singleton singleton = new Singleton();
 	
 	private Singleton() {
